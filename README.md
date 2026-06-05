@@ -23,7 +23,7 @@ Desenvolver uma API REST para:
 * Git e GitHub
 * Postman
 
-## Autor
+## Autores
 
-Gabriel Lince e Bruno Costa
+Gabriel Lince, Bruno Costa e Juliana Marques
 Curso de Análise e Desenvolvimento de Sistemas, Universidade UNIESBAM
